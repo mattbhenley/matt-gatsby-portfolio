@@ -1,0 +1,14 @@
+{
+  "name": "matt-gatsby-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mattbhenley/matt-gatsby-portfolio.git",
+  "author": "Matt Henley <mattbhenley@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^4.24.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
